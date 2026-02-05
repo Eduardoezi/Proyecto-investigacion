@@ -1,5 +1,5 @@
-# Proyecto Socio Tecnologico -investigacion IAP
-Repositorio del proyecto 
+# Proyecto Socio Tecnologico
+Repositorio del proyecto "Desarrollo de un Sistema de Información Integral para la Transformación de la Gestión Administrativa y Pedagógica en la Escuela de Educación Especial [Nombre de la Escuela], bajo el Paradigma Socio-Crítico con una metodologia IAP."
 
 ## 📝 Fase de Preinvestigación (Diario Epistémico) Fecha: 10 Enero 2026
 
