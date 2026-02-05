@@ -1,9 +1,10 @@
 # Proyecto Socio Tecnologico -investigacion IAP
 Repositorio del proyecto 
 
-## 📝 Fase de Preinvestigación (Diario Epistémico)
+## 📝 Fase de Preinvestigación (Diario Epistémico) Fecha: 10 Enero 2026
 
 El Diario Epistémico es crucial para registrar, no solo las decisiones, sino también las reflexiones, los prejuicios, las suposiciones y los conflictos que surgen en el grupo de investigación.
+
 **1. 🔍 Selección de Paradigma y Método**
 
    **Paradigmas Socio-Crítico y IAP:**
@@ -43,3 +44,6 @@ El objetivo es que la comunidad identifique y analice críticamente su propia re
         Talleres Participativos: Reunir a los actores clave para dibujar el "Flujo de Trabajo Ideal" vs. el "Flujo de Trabajo Actual".
         Entrevistas Semi-estructuradas: Preguntar a cada grupo (docentes, directivos, secretario) sobre sus necesidades, frustraciones y propuestas de solución.
         Mapeo de Actores y Poder: Identificar quién tiene la información, quién toma las decisiones y cómo el sistema actual perpetúa desbalances (ej. ¿El Director tiene toda la información y el docente no puede acceder a ella?).
+
+## Abordaje a la comunidad fecha: 2 Febrero 2026
+Barrera: Actividades de Peregrinacion impidieron reuniones.
